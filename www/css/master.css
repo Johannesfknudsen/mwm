@@ -1,5 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+@import url('https://fonts.googleapis.com/css?family=Dosis|Sedgwick+Ave');
 
 h1 {
   font-family: 'Sedgwick Ave', cursive;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
 }
