@@ -1,17 +1,18 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis|Sedgwick+Ave');
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:500|Sedgwick+Ave+Display&effect=anaglyph');
 
 body {
   text-align: center;
 }
 
 h1 {
-  font-family: 'Sedgwick Ave', cursive;
+  font-family: 'Sedgwick Ave Display', cursive;
+  font-size: 5vh;
 }
 
 h2 {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 p {
-  font-family: 'Dosis', sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
 }
