@@ -683,7 +683,6 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
-  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1382,39 +1381,8 @@ body {
     flex: auto!important;
   }
 }
-.jq-selectbox li:hover,
-.jq-selectbox li.selected {
-  background-color: #4ea2e3;
-  color: #ffffff;
-}
-.jq-selectbox .jq-selectbox__trigger-arrow,
-.jq-number__spin.minus:after,
-.jq-number__spin.plus:after {
-  transition: 0.4s;
-  border-top-color: currentColor;
-  border-bottom-color: currentColor;
-}
-.jq-selectbox:hover .jq-selectbox__trigger-arrow,
-.jq-number__spin.minus:hover:after,
-.jq-number__spin.plus:hover:after {
-  border-top-color: #4ea2e3;
-  border-bottom-color: #4ea2e3;
-}
-.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
-.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
-.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
-  color: #000000 !important;
-  background-color: #4ea2e3 !important;
-  box-shadow: none!important;
-}
-.xdsoft_datetimepicker .xdsoft_calendar td:hover,
-.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #ffffff !important;
-  background: #ff3366 !important;
-  box-shadow: none !important;
-}
 .cid-qJERyASPmA {
-  background-image: url("../../../assets/images/dsc07650-2000x1332.jpg");
+  background-image: url("../../../assets/images/bus-1.1.8-1-2000x851.jpg");
 }
 .cid-qJERyASPmA H1 {
   text-align: center;
@@ -1424,81 +1392,10 @@ body {
   text-align: center;
   color: #32afd0;
 }
-.cid-rs4aFUG9Y0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #cc2952, #0f7699);
-}
-.cid-rs4aFUG9Y0 .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rs47Iy00EQ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: #232323;
-}
-.cid-rs47Iy00EQ .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-rs47Iy00EQ .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
-}
-.cid-rs47Iy00EQ .media-container-row .img-item .img-cont {
-  position: relative;
-  overflow: hidden;
-}
-.cid-rs47Iy00EQ .media-container-row .img-item .img-cont img {
-  width: 100%;
-}
-.cid-rs47Iy00EQ .media-container-row .img-item .img-cont .img-caption {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-rs47Iy00EQ .media-container-row .img-item .img-cont .img-caption p {
-  margin-bottom: 0;
-}
-.cid-rs47Iy00EQ .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-rs47Iy00EQ .img-item {
-    width: 100% !important;
-  }
-  .cid-rs47Iy00EQ .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
-  }
-}
-.cid-rs4aDTLMUr {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: linear-gradient(45deg, #149dcc, #3f9f38);
-}
-.cid-rs4aDTLMUr .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rs4aDTLMUr H2 {
-  text-align: right;
-}
 .cid-rgbvwh4lbj {
   padding-top: 75px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/politi-1.8.1-1.8.1-2-2000x1125.jpg");
+  background-image: url("../../../assets/images/politi-1.8.1-1.8.1-2000x1125.jpg");
 }
 .cid-rgbvwh4lbj .mbr-media span {
   font-size: 48px;
@@ -1659,7 +1556,7 @@ body {
 .cid-rgbw70cCqo {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #2e2e2e;
 }
 .cid-rgbw70cCqo .row-links {
   width: 100%;
